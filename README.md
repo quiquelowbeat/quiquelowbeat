@@ -21,8 +21,8 @@
 <a href="https://linkedin.com/in/quique-sanchez-suarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quique-sanchez-suarez" height="30" width="40" /></a>
 </p>
 
-<div align="center">
+<div align="center"> Listen to my MUSIC FOR CODING playlist
   <a href="https://open.spotify.com/playlist/6havd06SRU4mXU0HDXYwER">
-    <img src="/images/portada_music_coding.jpg" alt="music for coding" height="500">
+    <img src="/images/portada_music_coding.jpg" alt="music for coding" height="350">
   </a>
 <p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quiquelowbeat&show_icons=true&locale=en" alt="quiquelowbeat" /></p>
