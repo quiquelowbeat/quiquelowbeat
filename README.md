@@ -20,11 +20,17 @@
 <p align="center">
 <a href="https://linkedin.com/in/quique-sanchez-suarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quique-sanchez-suarez" height="30" width="40" /></a>
 </p>
-
-<div align="center"> Listen to my MUSIC FOR CODING playlist: </br>
-  <a <img src="/images/portada_music_coding.jpg" alt="music for coding" height="350">
-  </a>
-  <a href="https://open.spotify.com/playlist/6havd06SRU4mXU0HDXYwER">
-    <img src="/images/portada_music_coding.jpg" alt="music for coding" height="350">
-  </a>
+<h3 align="center">Listen to my MUSIC FOR CODING playlist:</h3>
+<p align="center">
+  <img src="/images/portada_music_coding.jpg" alt="music for coding" height="350">
+</p>
+<div align="center">
+<h4 align="center">Spotify:</h4>
+<p align="center" href="https://open.spotify.com/playlist/6havd06SRU4mXU0HDXYwER">
+    <img src="/images/spotify.png" alt="spotify icon" height="120">
+</p>
+<h4 align="center">Apple Music:</h4>
+<p align="center" href="https://music.apple.com/es/playlist/music-for-coding/pl.u-jV0gjTqN26dR">
+    <img src="/images/apple-music.png" alt="apple music" height="120">
+</p>
 <p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quiquelowbeat&show_icons=true&locale=en" alt="quiquelowbeat" /></p>
