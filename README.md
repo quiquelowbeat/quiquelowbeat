@@ -26,11 +26,11 @@
 </p>
 <div align="center">
 <h4 align="center">Spotify:</h4>
-<p align="center" href="https://open.spotify.com/playlist/6havd06SRU4mXU0HDXYwER">
-    <img src="/images/spotify.png" alt="spotify icon" height="120">
-</p>
+<a href="https://open.spotify.com/playlist/6havd06SRU4mXU0HDXYwER" target="blank">
+    <img align="center" src="/images/spotify.png" alt="spotify icon" height="120">
+</a>
 <h4 align="center">Apple Music:</h4>
-<p align="center" href="https://music.apple.com/es/playlist/music-for-coding/pl.u-jV0gjTqN26dR">
-    <img src="/images/apple-music.png" alt="apple music" height="120">
-</p>
+<a href="https://music.apple.com/es/playlist/music-for-coding/pl.u-jV0gjTqN26dR" target="blank">
+    <img align="center" src="/images/apple-music.png" alt="apple music" height="120">
+</a>
 <p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quiquelowbeat&show_icons=true&locale=en" alt="quiquelowbeat" /></p>
