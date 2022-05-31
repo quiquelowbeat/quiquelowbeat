@@ -23,6 +23,6 @@
 
 <div align="center">
   <a href="https://open.spotify.com/playlist/6havd06SRU4mXU0HDXYwER">
-    <img src="/images/Portada Music For Coding.jpg" alt="music for coding" height="120">
+    <img src="/images/portada_music_coding.jpg" alt="music for coding" height="500">
   </a>
 <p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quiquelowbeat&show_icons=true&locale=en" alt="quiquelowbeat" /></p>
