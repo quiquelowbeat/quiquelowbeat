@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Clean Code and Hexagonal Architecture**
 
-- 👯 I’m looking to collaborate on **Web3 projects.**
+- 👯 I’m looking to collaborate on **Backend projects.**
 
 - 💬 Ask me about **JAVA, Spring Boot, MongoDB, SQL.**
 
